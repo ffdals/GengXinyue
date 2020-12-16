@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">18990097-耿欣悦</string>
+    <string name="menu_first">首页</string>
+    <string name="menu_second">分类</string>
+    <string name="menu_third">购物车</string>
+
+    <string name="please_input">请输入</string>
+    <string name="search">搜索</string>
+
+    <string name="book_name">启泰南甜杏仁\n原味新鲜去皮散装烘焙煲</string>
+</resources>
